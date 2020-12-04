@@ -1,0 +1,6 @@
+[submodule "technomad_11ty"]
+	path = technomad_11ty
+	url = git@github.com:wommy/technomad_11ty.git
+[submodule "technomad_blogposts"]
+	path = technomad_blogposts
+	url = git@github.com:wommy/technomad_blogposts.git
